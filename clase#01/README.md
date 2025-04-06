@@ -21,7 +21,7 @@ primeros ejercicios con diagramas de flujos en "Flowgorithm" :
 	* mostrar "hello world"
 	* ingresar 3 (tres) lados y determinar si es un triangulo
 	* ingresar 3 (tres) numeros y determinar el valor maximo
-	* ingresar 3 (tres) lados y determinar si es un triangulo equilatero
+	* ingresar 3 (tres) lados y determinar el tipo de triangulo
 	
 # homework
 
