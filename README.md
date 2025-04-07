@@ -44,4 +44,13 @@ Link al Calendario Academico 2025 [Calendario Academico](https://frba.utn.edu.ar
 https://www.youtube.com/@oscar_paniagua
 
 	
+## Aulas Virtuales
+
+* de la catedra
+https://aulasvirtuales.frba.utn.edu.ar/course/section.php?id=249781
+
+* del curso r1091
+https://aulasvirtuales.frba.utn.edu.ar/course/view.php?id=5296
+
+
 	
