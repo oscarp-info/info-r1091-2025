@@ -50,7 +50,8 @@ https://www.youtube.com/@oscar_paniagua
 https://aulasvirtuales.frba.utn.edu.ar/course/section.php?id=249781
 
 * del curso r1091
+
 https://aulasvirtuales.frba.utn.edu.ar/course/view.php?id=5296
 
-
+clave de matriculacion: R1091
 	
