@@ -47,6 +47,7 @@ https://www.youtube.com/@oscar_paniagua
 ## Aulas Virtuales
 
 * de la catedra
+
 https://aulasvirtuales.frba.utn.edu.ar/course/section.php?id=249781
 
 * del curso r1091
