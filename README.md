@@ -39,3 +39,9 @@ Link al Calendario Academico 2025 [Calendario Academico](https://frba.utn.edu.ar
 	* 1° parcial, a definir
 	* 2° parcial, a definir
 	
+## Canal de youtube
+
+https://www.youtube.com/@oscar_paniagua
+
+	
+	
